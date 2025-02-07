@@ -1,9 +1,9 @@
-RAG-Based Gradio Application with FAISS and Open-Source LLM
+<h4>RAG-Based Gradio Application with FAISS and Open-Source LLM</h4>
 
 This project demonstrates a Retrieval-Augmented Generation (RAG) pipeline integrated into a Gradio UI. Users can upload documents, store embeddings in a FAISS index, and generate answers to queries using an open-source language model.
 
 
-Key Features
+<h4>Key Features</h4>
 
 File Upload: Users can upload PDF and PPTX files through the Gradio interface.
 
@@ -14,7 +14,7 @@ Query Generation: Users can type queries and click "Generate Answer" to receive 
 Efficient Document Retrieval: Leveraging FAISS for vector-based similarity search.
 
 
-Tech Stack :
+<h4>Tech Stack :</h4>
 
 Python 3.8+
 
