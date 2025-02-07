@@ -29,5 +29,8 @@ FAISS for efficient vector similarity search
 
 python UI_upload_file_chat_bot.py
 
+<h4>UI Layout</h4>
+<img src= "./ui_layout.png"> 
+
 
 
