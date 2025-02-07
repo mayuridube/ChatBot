@@ -25,6 +25,9 @@ HuggingFace Transformers for LLM and embeddings
 FAISS for efficient vector similarity search
 
 
-Run the Project:
+<h4>Run the Project:</h4>
 
 python UI_upload_file_chat_bot.py
+
+
+
